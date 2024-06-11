@@ -1,3 +1,5 @@
+#Cmake items
+build/
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
